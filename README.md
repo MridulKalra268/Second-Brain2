@@ -26,8 +26,7 @@ LayerTechFrontendReact, TypeScript, Tailwind CSS, ReduxBackendNode.js, Express, 
 Running locally
 Prerequisites: Node.js 18+, MongoDB, Pinecone account, Gemini API key
 bash# Clone
-git clone https://github.com/sreyas-cheviri/superSerencious.git
-cd superSerencious
+
 
 # Backend
 cd Server
